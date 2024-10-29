@@ -35,7 +35,14 @@
     </h3>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
+    {% endif %} ### ADDDED STUF HERE FOR LINK OF WORKIN PARER TO APPER
+      {% if post.links %}
+  <ul>
+    {% for link in post.links %}
+      <li><a href="{{ link.url }}">{{ link.label }}</a></li>
+    {% endfor %}
+  </ul>
+{% endif %} ### uNTIL HER
     {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
     </li>
  </article>
