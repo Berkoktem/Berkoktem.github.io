@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : ""
-  pronouns         : "he/him"  
-  bio              : "Postdoc researcher"
+  name             : "Post-doc researcher"
+  pronouns         : "(he/him)"  
+  bio              : #"Post-doc researcher"
   location         : "Earth"
-  employer         : "Paris-Saclay University - PSAE, INRAE"
+  employer         : "Paris-Saclay Applied Economics"
   uri              : # URL
   email            : "none@example.org" 
 
