@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Post-doc Researcher"
-  pronouns         : "(he/him)"  
-  bio              : #"Post-doc researcher"
+  name             : "Berk Öktem"
+  pronouns         : #""  
+  bio              : "Post-doc researcher (he/him)"
   location         : "Paris"
   employer         : "Paris-Saclay<br>Applied Economics"
   uri              : # URL
