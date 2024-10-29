@@ -7,10 +7,10 @@ excerpt: '<b>Abstract:<b> Deforestation in the tropics is a critical issue that 
 date: 2024-05-01
 venue: 'American Journal of Agricultural Economics'
 links:
-  - label: "Published version"
-    url: "https://onlinelibrary.wiley.com/doi/10.1111/ajae.12441"
-  - label: "Working paper version"
-    url: "http://academicpages.github.io/files/paper1.pdf"
+  - label: 'Published version'
+    url: 'https://onlinelibrary.wiley.com/doi/10.1111/ajae.12441'
+  - label: 'Working paper version'
+    url: 'http://academicpages.github.io/files/paper1.pdf'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Chort I, Öktem B. (2024). &quot;Agricultural shocks, coping policies and deforestation: Evidence from the coffee leaf rust epidemic in Mexico.&quot; <i>American Journal of Agricultural Economics</i>. Vol. 106 (3), pp. 1020-1057.'
