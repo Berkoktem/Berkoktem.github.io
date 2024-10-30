@@ -21,7 +21,7 @@ repository               : "Berkoktem.github.io" #"academicpages/academicpages.g
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "BerkPhoto.heic"
   name             : "Berk Öktem"
   pronouns         : #""  
   bio              : "Post-doc researcher<br>(he/him)"
