@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Berkoktem.github.io/al-folio/sitemap.xml
+Sitemap: https://Berkoktem.github.io/sitemap.xml
