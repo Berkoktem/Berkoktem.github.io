@@ -5,22 +5,14 @@
     "image": "",
     "email": "boktem@univ-pau.fr",
     "url": "https://berkoktem.github.io",
-    "summary": "Postdoctoral Fellow at Paris-Saclay University",
+    "summary": "Postdoctoral Fellow at Université Paris-Saclay",
     "location": {
       "city": "Paris",
       "countryCode": "France"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
   "work": [
     {
-      "name": "Paris Saclay Applied Economics, Paris-Saclay University",
+      "name": "Paris Saclay Applied Economics, Université Paris-Saclay",
       "position": "Postdoctoral Fellow",
       "startDate": "2024-11-01",
       "endDate": "2026-10-30",
@@ -39,7 +31,7 @@
       "startDate": "2020-09-01",
       "endDate": "2024-10-30",
       "score": "10",
-      "courses": ["Economics"]
+      "courses": ["Land-use, deforestation, agriculture, biodiversity"]
     }
   ],
   "awards": [
@@ -136,12 +128,17 @@
   
   "languages": [
     {
-      "language": "German",
+      "language": "Turkish",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "French",
       "fluency": "Fluent",
       "icon": ""
     }
@@ -160,19 +157,7 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "volunteer": [
+  "internship": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
