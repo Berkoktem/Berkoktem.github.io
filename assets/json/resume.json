@@ -16,21 +16,21 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "berk-öktem-74051770",
+        "url": "https://www.linkedin.com/in/berk-öktem-74051770/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Paris Saclay Applied Economics (PSAE), Université Paris-Saclay",
+      "position": "Postdoctoral Fellow",
+      "url": "https://psae.versailles-saclay.hub.inrae.fr",
+      "startDate": "2024-11-01",
+      "endDate": "2026-10-30",
+      "summary": "Two-year postdoctoral contract at CLand project with supervision of Raja Chakir and Francois Bareille",
+      "highlights": ["Land-use, climate change"]
     }
   ],
   "volunteer": [
