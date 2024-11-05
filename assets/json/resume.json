@@ -25,6 +25,7 @@
   "work": [
     {
       "name": "Paris Saclay Applied Economics (PSAE), Université Paris-Saclay",
+      "location": "Paris, France",
       "position": "Postdoctoral Fellow",
       "url": "https://psae.versailles-saclay.hub.inrae.fr",
       "startDate": "2024-11-01",
@@ -44,7 +45,30 @@
       "endDate": "2024-10-30",
       "score": "10",
       "courses": ["Land-use, deforestation, agriculture, causal inference"]
+    },
+    {
+      "institution": "Bordeaux School of Economics (BSE), Université de Bordeaux",
+      "location": "Bordeaux, France",
+      "url": "https://www.bse.u-bordeaux.fr/en/",
+      "area": "Two-year graduate program in development and population economics with a strong emphasis on statistical and causal inference methods.",
+      "studyType": "Graduate degree in development economics",
+      "startDate": "2017-09-01",
+      "endDate": "2019-08-30",
+      "score": "10",
+      "courses": ["Development and population economics, statistics, causal inference"]
+    },
+{
+      "institution": "Galatasaray University",
+      "location": "Istanbul, Turkey",
+      "url": "https://gsu.edu.tr/en",
+      "area": "Economics",
+      "studyType": "Bachelor degree in economics",
+      "startDate": "2012-09-01",
+      "endDate": "2017-08-30",
+      "score": "10",
+      "courses": [""]
     }
+    
   ],
   "awards": [
     {
