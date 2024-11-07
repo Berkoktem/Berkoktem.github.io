@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'>Postdoctoral Fellow</a>. Paris Saclay Applied Economics (PSAE). Université Paris-Saclay.
 
