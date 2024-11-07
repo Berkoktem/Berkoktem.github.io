@@ -32,6 +32,15 @@
       "endDate": "2026-10-30",
       "summary": "Two-year research contract on the CLAND project under the supervision of Raja Chakir and François Bareille.",
       "highlights": ["Land-use, climate change"]
+    },
+    {
+      "name": "UMR TREE, UMR TREE, Université de Pau et des Pays de l'Adour (UPPA)y",
+      "location": "Bayonne, France",
+      "position": "Research assistant",
+      "url": "https://tree.univ-pau.fr/fr/index.html",
+      "startDate": "2024-09-01",
+      "endDate": "2024-10-30",
+      "summary": "Two-month research assistant contract with Isabelle Chort."
     }
   ],
   "education": [
@@ -69,16 +78,7 @@
     }
     
   ],
-  "awards": [
-    {
-      "title": "Best Poster Award",
-      "date": "2023-07-03",
-      "awarder": "International Conference on Development Economics (ICDE)",
-      "url": "https://afedev.fr/en/best-poster-award/",
-      "summary": "The jury would like to highlight the quality of the posters and papers presented by these three prizewinners and warmly congratulate them on their contribution to the conference. The jury is convinced that these prizewinners will continue to excel and contribute to development economics research."
-    }
-  ],
-  "publications": [
+   "publications": [
     {
       "name": "Heroin and deforestation: Unexpected impact of the Oxycontin reformulation on Mexican forests",
       "publisher": "Working paper",
@@ -92,6 +92,15 @@
       "releaseDate": "2024-05-01",
       "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12441",
       "summary": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best Poster Award",
+      "date": "2023-07-03",
+      "awarder": "International Conference on Development Economics (ICDE)",
+      "url": "https://afedev.fr/en/best-poster-award/",
+      "summary": "The jury would like to highlight the quality of the posters and papers presented by these three prizewinners and warmly congratulate them on their contribution to the conference. The jury is convinced that these prizewinners will continue to excel and contribute to development economics research."
     }
   ],
   "languages": [
