@@ -79,11 +79,18 @@
     
   ],
    "publications": [
-    {
-      "name": "Heroin and deforestation: Unexpected impact of the Oxycontin reformulation on Mexican forests",
+     {
+      "name": "Heroin and deforestation: The impact of U.S. heroin demand on land use in Mexico",
       "publisher": "Working paper",
-      "releaseDate": "2024-09-01",
-      "url": "https://univ-pau.hal.science/hal-04704400v1",
+      "releaseDate": "2025-01-01",
+      "url": "https://www.dropbox.com/scl/fi/juekltu4vv81zi0bzwn2w/PoppyDeforestation.pdf?rlkey=bqczogdswb1dctd812eymieu3&st=lv553mqy&dl=0",
+      "summary": ""
+    },
+    {
+      "name": "Agricultural policies and biodiversity: Impact of the CAP greening on bird abundance and diversity in France",
+      "publisher": "Working paper",
+      "releaseDate": "2024-12-01",
+      "url": "https://hal.science/hal-04895155",
       "summary": ""
     },
     {
