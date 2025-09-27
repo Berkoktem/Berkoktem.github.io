@@ -2,7 +2,7 @@
   "basics": {
     "name": "Berk Öktem",
     "image": "",
-    "email": "berk.oktem[@]inrae.fr",
+    "email": "berk.oktem[@]universite-paris-saclay.fr",
     "phone": "",
     "url": "https://berkoktem.github.io",
     "summary": "",
@@ -23,17 +23,25 @@
   },
   "work": [
     {
-      "name": "Paris Saclay Applied Economics (PSAE), Université Paris-Saclay",
+      "name": "Université Paris-Saclay. Faculté Jean-Monnet, RITM",
+      "location": "Sceaux, France",
+      "position": "Assistant Professor",
+      "url": "https://www.ritm.universite-paris-saclay.fr/",
+      "startDate": "2025-09-01",
+      "highlights": ["Economics"]
+    },
+    {
+      "name": "Université Paris-Saclay, PSAE",
       "location": "Paris, France",
       "position": "Postdoctoral Fellow",
       "url": "https://psae.versailles-saclay.hub.inrae.fr",
       "startDate": "2024-11-01",
-      "endDate": "2026-10-30",
-      "summary": "Two-year research contract on the CLAND project under the supervision of Raja Chakir and François Bareille.",
+      "endDate": "2025-08-31",
+      "summary": "Worked on the CLAND project under the supervision of Raja Chakir and François Bareille.",
       "highlights": ["Land-use, climate change"]
     },
     {
-      "name": "UMR TREE, UMR TREE, Université de Pau et des Pays de l'Adour (UPPA)",
+      "name": "Université de Pau et des Pays de l'Adour (UPPA), TREE",
       "location": "Bayonne, France",
       "position": "Research assistant",
       "url": "https://tree.univ-pau.fr/fr/index.html",
@@ -44,7 +52,7 @@
   ],
   "education": [
     {
-      "institution": "UMR TREE, Université de Pau et des Pays de l'Adour (UPPA)",
+      "institution": "Université de Pau et des Pays de l'Adour (UPPA), TREE",
       "location": "Bayonne, France",
       "url": "https://tree.univ-pau.fr/fr/index.html",
       "area": "Shocks and policies: Essays on deforestation, biodiversity, and agriculture",
@@ -55,7 +63,7 @@
       "courses": ["Land-use, deforestation, agriculture, causal inference"]
     },
     {
-      "institution": "Bordeaux School of Economics (BSE), Université de Bordeaux",
+      "institution": "Université de Bordeaux, Bordeaux School of Economics (BSE), ",
       "location": "Bordeaux, France",
       "url": "https://www.bse.u-bordeaux.fr/en/",
       "area": "Two-year graduate program in development and population economics with a strong emphasis on statistical and causal inference methods.",
@@ -81,8 +89,8 @@
      {
       "name": "Heroin and deforestation: The impact of U.S. heroin demand on land use in Mexico",
       "publisher": "Working paper",
-      "releaseDate": "2025-01-01",
-      "url": "https://www.dropbox.com/scl/fi/juekltu4vv81zi0bzwn2w/PoppyDeforestation.pdf?rlkey=bqczogdswb1dctd812eymieu3&st=lv553mqy&dl=0",
+      "releaseDate": "2025-09-01",
+      "url": "https://www.dropbox.com/scl/fo/embq4dt2nr7v2pwac8yny/ANSxNhU9ul_RsNPkyaocMTQ?rlkey=v5ivmmsygdpc9v6c2nhggh8fv&st=oniw3ev2&dl=0",
       "summary": ""
     },
     {
