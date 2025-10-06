@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Postdoctoral Fellow</a>. Paris Saclay Applied Economics (PSAE). Université Paris-Saclay.
+subtitle: <a href='#'>Assistant Professor</a>. RITM. Faculté Jean Monnet. Université Paris-Saclay.
 
 profile:
   align: right
